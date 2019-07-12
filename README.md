@@ -15,8 +15,8 @@
 2. (optional) Refer to the ground truth of SNEMI3D dataset.
 	- Import EM stack from images to `.vsv` file
 	- Set resolution to `6*6*30 nm `
-	- Import segmentation from images, choose `1.tif`
-	- In the new dialog, set `basic filename string` to `%d.tif` and `No of last slice` to `100`
+	- Import segmentation from images, choose `labels00.tif`
+	- In the new dialog, set `basic filename string` to `labels%2d.tif` and `No of first/last slice` to `0/99`
 3. Do manual segmentation on our corpus callosum dataset(***Copyright@ssSEM-LAB,SIBET***)
 	- Import EM stack from images to `.vsv` file
 	- Set resolution to `4*4*60 nm`
