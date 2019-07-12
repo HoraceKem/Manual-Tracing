@@ -1,0 +1,20 @@
+{
+  "Comment": "Source: https://cloud.neurodata.io/nd/sd/bock11/info/",
+  "ServerType": "openconnectome",
+  "ServerName": "cloud.neurodata.io",
+  "ServerFolder": "/nd/sd/bock11",
+  "SourceDataSizeX": 135424, 
+  "SourceDataSizeY": 119808,
+  "SourceDataSizeZ": 1239,
+  "TargetDataSizeX": 135424,
+  "TargetDataSizeY": 119808,
+  "TargetDataSizeZ": 1239,
+  "OffsetX": 0,
+  "OffsetY": 0,
+  "OffsetZ": 2917,
+  "OffsetMip": 0,
+  "TargetVoxelSizeXnm": 4,
+  "TargetVoxelSizeYnm": 4,
+  "TargetVoxelSizeZnm": 40,
+  "TargetLayerName": "Bock11@neurodata.io"
+}

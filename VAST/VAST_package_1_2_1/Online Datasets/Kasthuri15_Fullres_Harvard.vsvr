@@ -1,0 +1,22 @@
+{
+  "Comment": "Kasthuri et al. 2015 Mouse Cortex Dataset, Lichtman Lab, Harvard. Full resolution (3nm XY) version.",
+  "ServerType": "butterfly",
+  "ServerName": "jwlconnect.rc.fas.harvard.edu",
+  "ServerPort": 80,
+  "ServerFolder": "butterfly/data/",
+  "DataPath": "/n/www_glichtman/public/kasthuri/mojo/mojo/",
+  "SourceDataSizeX": 21504, 
+  "SourceDataSizeY": 26624,
+  "SourceDataSizeZ": 1850,
+  "TargetDataSizeX": 21504,
+  "TargetDataSizeY": 26624,
+  "TargetDataSizeZ": 1850,
+  "OffsetX": 0,
+  "OffsetY": 0,
+  "OffsetZ": 0,
+  "OffsetMip": 0,
+  "TargetVoxelSizeXnm": 3,
+  "TargetVoxelSizeYnm": 3,
+  "TargetVoxelSizeZnm": 30,
+  "TargetLayerName": "Kasthuri15 BF Harvard"
+}

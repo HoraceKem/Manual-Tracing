@@ -1,0 +1,22 @@
+{
+  "Comment": "Kasthuri et al. 2015 Mouse Cortex Dataset, Lichtman Lab, Harvard. AC3 cutout region",
+  "ServerType": "butterfly",
+  "ServerName": "jwlconnect.rc.fas.harvard.edu",
+  "ServerPort": 80,
+  "ServerFolder": "butterfly/data/",
+  "DataPath": "/n/www_glichtman/public/kasthuri/mojo/mojo/",
+  "SourceDataSizeX": 21504, 
+  "SourceDataSizeY": 26624,
+  "SourceDataSizeZ": 1850,
+  "TargetDataSizeX": 1024,
+  "TargetDataSizeY": 1024,
+  "TargetDataSizeZ": 256,
+  "OffsetX": 10943,
+  "OffsetY": 17423,
+  "OffsetZ": 999,
+  "OffsetMip": 1,
+  "TargetVoxelSizeXnm": 6,
+  "TargetVoxelSizeYnm": 6,
+  "TargetVoxelSizeZnm": 30,
+  "TargetLayerName": "Kasthuri15 BF Harvard AC3"
+}

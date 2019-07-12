@@ -1,0 +1,22 @@
+{
+  "Comment": "Josh's LGNs1 PSC Data Online",
+  "ServerType": "butterfly",
+  "ServerName": "jwlconnect.rc.fas.harvard.edu",
+  "ServerPort": 80,
+  "ServerFolder": "butterfly/data/",
+  "DataPath": "/n/www_glichtman/joshm/LGNs1/png_14_04_25_dice_4_mojo/mojo/",
+  "SourceDataSizeX": 26624, 
+  "SourceDataSizeY": 28672,
+  "SourceDataSizeZ": 9802,
+  "TargetDataSizeX": 26624,
+  "TargetDataSizeY": 28672,
+  "TargetDataSizeZ": 9802,
+  "OffsetX": 0,
+  "OffsetY": 0,
+  "OffsetZ": 0,
+  "OffsetMip": 0,
+  "TargetVoxelSizeXnm": 16,
+  "TargetVoxelSizeYnm": 16,
+  "TargetVoxelSizeZnm": 30,
+  "TargetLayerName": "Josh's LGNs1 PSC Data Online"
+}

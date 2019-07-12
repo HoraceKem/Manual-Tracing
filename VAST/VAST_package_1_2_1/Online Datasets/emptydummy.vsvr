@@ -1,0 +1,20 @@
+{
+  "Comment": "Empty Dummy",
+  "ServerType": "openconnectome",
+  "ServerName": "",
+  "ServerFolder": "",
+  "SourceDataSizeX": 49152, 
+  "SourceDataSizeY": 32768,
+  "SourceDataSizeZ": 255,
+  "TargetDataSizeX": 49152,
+  "TargetDataSizeY": 32768,
+  "TargetDataSizeZ": 255,
+  "OffsetX": 0,
+  "OffsetY": 0,
+  "OffsetZ": 0,
+  "OffsetMip": 0,
+  "TargetVoxelSizeXnm": 6,
+  "TargetVoxelSizeYnm": 6,
+  "TargetVoxelSizeZnm": 30,
+  "TargetLayerName": "Empty Dummy"
+}

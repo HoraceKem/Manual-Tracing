@@ -1,0 +1,20 @@
+{
+  "Comment": "Source: http://openconnecto.me/ocp/ca/bock11/info/",
+  "ServerType": "openconnectome",
+  "ServerName": "openconnecto.me",
+  "ServerFolder": "/ocp/ca/bock11",
+  "SourceDataSizeX": 135424, 
+  "SourceDataSizeY": 119808,
+  "SourceDataSizeZ": 1239,
+  "TargetDataSizeX": 135424,
+  "TargetDataSizeY": 119808,
+  "TargetDataSizeZ": 1239,
+  "OffsetX": 0,
+  "OffsetY": 0,
+  "OffsetZ": 2917,
+  "OffsetMip": 0,
+  "TargetVoxelSizeXnm": 4,
+  "TargetVoxelSizeYnm": 4,
+  "TargetVoxelSizeZnm": 40,
+  "TargetLayerName": "Bock11@OpenConnectome"
+}

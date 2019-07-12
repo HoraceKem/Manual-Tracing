@@ -1,0 +1,20 @@
+{
+  "Comment": "Source: http://openconnecto.me/ocp/ca/kasthuri14s1colEM/info/",
+  "ServerType": "openconnectome",
+  "ServerName": "openconnecto.me",
+  "ServerFolder": "/ocp/ca/kasthuri14s1colEM",
+  "SourceDataSizeX": 49152, 
+  "SourceDataSizeY": 32768,
+  "SourceDataSizeZ": 255,
+  "TargetDataSizeX": 49152,
+  "TargetDataSizeY": 32768,
+  "TargetDataSizeZ": 255,
+  "OffsetX": -1,
+  "OffsetY": -1,
+  "OffsetZ": -1,
+  "OffsetMip": 0,
+  "TargetVoxelSizeXnm": 30,
+  "TargetVoxelSizeYnm": 30,
+  "TargetVoxelSizeZnm": 240,
+  "TargetLayerName": "Kasthuri14S1Column@OpenConnectome 30nm"
+}
